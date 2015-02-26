@@ -1,1 +1,1 @@
-Example for Android's course.
+An example that read shared preferences write of Android.
