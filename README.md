@@ -1,1 +1,1 @@
-An example that read shared preferences write of Android.
+An example that write some data in shared preferences of an android application.
